@@ -1,6 +1,6 @@
 //logs.js
 const util = require('../../utils/util.js')
-
+const AV = require('../../libs/av-weapp-min.js');
 Page({
   data: {
     logs: []
